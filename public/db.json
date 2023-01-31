@@ -1,0 +1,25 @@
+{
+    "guitars":[
+        {
+            "id": 0,
+            "imageUrl": "https://opt-1289634.ssl.1c-bitrix-cdn.ru/upload/resize_cache/webp/iblock/ba3/46wge0vn1edz1mnkt7w4nisdk2k0rm6c.webp?1633694127117454",
+            "name": "Акустическая гитара Yamaha F310",
+            "price": 23000,
+            "description": "this is description"
+        },
+        {
+            "id": 1,
+            "imageUrl": "https://opt-1289634.ssl.1c-bitrix-cdn.ru/upload/iblock/a6c/vgk13lrue0k257aaiub64lkrjz7vmchv.jpg?1654550117135323",
+            "name": "Электрогитара Schecter C-6 Deluxe Satin Black",
+            "price": 33500,
+            "description": "this is description"
+        },
+        {
+            "id": 2,
+            "imageUrl": "https://opt-1289634.ssl.1c-bitrix-cdn.ru/upload/iblock/c75/3p2rh6hg02zlkh8lg4yh2zaev6qa13zs.jpg?1631878831122012",
+            "name": "Укулеле-сопрано Enya EUS-25D из африканского махагона",
+            "price": 9200,
+            "description": "this is description"
+        }
+    ]
+}
